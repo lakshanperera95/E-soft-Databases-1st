@@ -1,0 +1,9 @@
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\bin\Debug\Quiet Attic Films.exe.config
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\bin\Debug\Quiet Attic Films.exe
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\bin\Debug\Quiet Attic Films.pdb
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\obj\Debug\Quiet Attic Films.csprojResolveAssemblyReference.cache
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Form1.resources
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Properties.Resources.resources
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\obj\Debug\Quiet Attic Films.csproj.GenerateResource.Cache
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\obj\Debug\Quiet Attic Films.exe
+D:\my projects\Lakshan\Quiet Attic Films\Quiet Attic Films\obj\Debug\Quiet Attic Films.pdb
